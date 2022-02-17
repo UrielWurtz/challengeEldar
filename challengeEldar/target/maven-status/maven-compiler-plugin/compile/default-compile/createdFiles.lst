@@ -1,0 +1,6 @@
+com\example\challengeeldar\cards\CardData.class
+com\example\challengeeldar\cards\CardsEntity.class
+com\example\challengeeldar\ChallengeEldarApplication.class
+com\example\challengeeldar\cards\CardEnum.class
+com\example\challengeeldar\CardBoundary.class
+com\example\challengeeldar\CardController.class
